@@ -25,6 +25,8 @@ public class Grafy {
 		}
 
 		printTable(a);
+		
+		System.out.println("Hello world!");
 	}
 
 	private static void printTable(int[][] a) {
