@@ -9,6 +9,7 @@ public class Grafy {
 				{ 0, 0, 0, 0, 2, 0 },
 				{ 0, 7, 0, 4, 0, 0 }, 
 				{ 0, 0, 7, 6, 10, 0 } };
+		System.out.println("Second hello");
 
 		printTable(a);
 		
